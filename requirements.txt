@@ -1,3 +1,5 @@
 onnx
 coremltools
 wheel
+onnxruntime
+pillow
